@@ -102,3 +102,4 @@ CSS:
 <?php wp_star_rating( ['rating'=>$testimonial_rating, 'type'=>'rating', 'number'=>0 ] );?>
 </div>
 ```
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://sitex.me/standwithukraine)
